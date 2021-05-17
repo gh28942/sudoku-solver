@@ -1,5 +1,5 @@
-# Lottery Simulator
-The Sudoku Solver is a web app made with Node.js, React and Bootstrap. You can use it to input the numbers of a Sudoku puzzle and let the algorithm solve it. To finish the game, missing numbers will be filled into the 9x9 grid of squares which are subdivided into 3x3 boxes so that every row, every column, and every box contains all numbers from 1 to 9.
+# Sudoku Solver
+This web app made with Node.js, React and Bootstrap. You can use the Sudoku Solver to input the numbers of a Sudoku puzzle and let the algorithm solve it. To finish the game, missing numbers will be filled into the 9x9 grid of squares which are subdivided into 3x3 boxes so that every row, every column, and every box contains all numbers from 1 to 9.
 <br><br>
 
 ## Web App ##
