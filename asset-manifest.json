@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/sudoku-solver/static/css/main.4ad890d9.chunk.css",
-    "main.js": "/sudoku-solver/static/js/main.35af662f.chunk.js",
-    "main.js.map": "/sudoku-solver/static/js/main.35af662f.chunk.js.map",
+    "main.js": "/sudoku-solver/static/js/main.baeaac93.chunk.js",
+    "main.js.map": "/sudoku-solver/static/js/main.baeaac93.chunk.js.map",
     "runtime-main.js": "/sudoku-solver/static/js/runtime-main.8dea8358.js",
     "runtime-main.js.map": "/sudoku-solver/static/js/runtime-main.8dea8358.js.map",
-    "static/css/2.86846cc5.chunk.css": "/sudoku-solver/static/css/2.86846cc5.chunk.css",
-    "static/js/2.c346e5b1.chunk.js": "/sudoku-solver/static/js/2.c346e5b1.chunk.js",
-    "static/js/2.c346e5b1.chunk.js.map": "/sudoku-solver/static/js/2.c346e5b1.chunk.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/sudoku-solver/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.acafcd35.chunk.js": "/sudoku-solver/static/js/2.acafcd35.chunk.js",
+    "static/js/2.acafcd35.chunk.js.map": "/sudoku-solver/static/js/2.acafcd35.chunk.js.map",
     "index.html": "/sudoku-solver/index.html",
-    "static/css/2.86846cc5.chunk.css.map": "/sudoku-solver/static/css/2.86846cc5.chunk.css.map",
+    "static/css/2.4c97ca4f.chunk.css.map": "/sudoku-solver/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.4ad890d9.chunk.css.map": "/sudoku-solver/static/css/main.4ad890d9.chunk.css.map",
-    "static/js/2.c346e5b1.chunk.js.LICENSE.txt": "/sudoku-solver/static/js/2.c346e5b1.chunk.js.LICENSE.txt",
+    "static/js/2.acafcd35.chunk.js.LICENSE.txt": "/sudoku-solver/static/js/2.acafcd35.chunk.js.LICENSE.txt",
     "static/media/App.css": "/sudoku-solver/static/media/NightinTokyo.33df80ea.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.8dea8358.js",
-    "static/css/2.86846cc5.chunk.css",
-    "static/js/2.c346e5b1.chunk.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.acafcd35.chunk.js",
     "static/css/main.4ad890d9.chunk.css",
-    "static/js/main.35af662f.chunk.js"
+    "static/js/main.baeaac93.chunk.js"
   ]
 }
