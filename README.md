@@ -8,8 +8,8 @@ You can find the <b><a href="https://gh28942.github.io/sudoku-solver/">web appli
 
 <!--## Video Demo ##
 <p align="center">
-	<a href="https://www.youtube.com/watch?v=P0FcoEb87cU" target="_blank" rel="noopener noreferrer">
-		<img src="scr/yt-thumb.jpg" alt="Watch the video" width="60%" height="60%">
+	<a href="https://youtu.be/29B04xeCbYA" target="_blank" rel="noopener noreferrer">
+		<img src="scr/thumb_yt_github.jpg" alt="Watch the video" width="60%" height="60%">
 	</a>
 </p>-->
 											  
