@@ -17,7 +17,8 @@ You can find the <b><a href="https://gh28942.github.io/sudoku-solver/">web appli
 <p align="center">
   <img src="scr/sudoku-1_crop_compressed.gif">
 </p>
-<p align="center">Solving a Sudoku game using the webapp. Once solved, a user can pick each space and see its associated spaces highlighted.</p>
+<p align="center">Solving a Sudoku game using the webapp.</p>
+<p align="center">Once solved, a user can pick each space and see its associated spaces highlighted.</p>
 <br><br>
 
 ## Strategy ##
