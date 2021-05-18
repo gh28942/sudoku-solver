@@ -6,12 +6,12 @@ This webapp made with Node.js, React and Bootstrap. You can use the Sudoku Solve
 You can find the <b><a href="https://gh28942.github.io/sudoku-solver/">web application here</a>.</b>
 <br><br>
 
-<!--## Video Demo ##
+## Video Demo ##
 <p align="center">
 	<a href="https://youtu.be/29B04xeCbYA" target="_blank" rel="noopener noreferrer">
 		<img src="scr/thumb_yt_github.jpg" alt="Watch the video" width="60%" height="60%">
 	</a>
-</p>-->
+</p>
 											  
 ## Screenshots ##
 <p align="center">
